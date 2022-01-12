@@ -6,4 +6,4 @@
 ### Deliverables 
 - Raw data pull from a laptop store's website (classic.csv)
 - Cleaned dataset (classic.xlsx)
-- Analysis report (WebScraping.pdf)  
+- Analysis report (WebScraping.pdf) 
